@@ -1,0 +1,7 @@
+body {
+  background: url(/images/background/background.jpg) no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  user-select: none;
+  margin: 10px 20px 10px 20px; }
+
